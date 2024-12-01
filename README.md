@@ -30,11 +30,6 @@ Install requirements:
 ```bash
 pip install -r requirements.txt
 ```
-### 4. Install Baukit
-Install baukit:
-```bash
-pip install git+https://github.com/davidbau/baukit
-```
 
 ### Using automated script.
 Change exec permission and execute automated script:
