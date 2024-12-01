@@ -45,11 +45,11 @@ To run part of the experiments execute the following scripts:
 For unimodal experiments:
 
 ```bash
-sudo chmod +x setup_environment.sh
+sudo chmod +x run_unimodal_experiment.sh
 ./run_unimodal_experiment.sh
 ```
 For multimodal experiments:
 ```bash
-sudo chmod +x setup_environment.sh
+sudo chmod +x run_multimodal_experiment.sh
 ./run_multimodal_experiment.sh
 ```
