@@ -23,7 +23,7 @@ To begin, clone the repository to your local machine and navigate to the project
 
 ```bash
 git clone https://anonymous.4open.science/r/LUMIA-6DA3/
-cd lumia
+cd LUMIA
 ```
 
 ---
