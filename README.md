@@ -1,4 +1,3 @@
-
 # LUMIA
 
 This guide provides instructions to set up the environment and install the necessary dependencies for the project.
