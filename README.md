@@ -1,3 +1,4 @@
+
 # LUMIA
 
 The full code will be released upon acceptance.  
@@ -21,8 +22,8 @@ Before starting, ensure the following tools are installed on your system:
 To begin, clone the repository to your local machine and navigate to the project directory:
 
 ```bash
-git clone https://anonymous.4open.science/r/LUMIA-DF01/
-cd LUMIA
+git clone <repo-name-here>
+cd lumia
 ```
 
 ---
@@ -99,7 +100,3 @@ sudo chmod +x run_multimodal_experiment.sh
   Download the data from [DeepMind Gutenberg](https://console.cloud.google.com/storage/browser/deepmind-gutenberg) and place it in the `./data/pg19` folder.
 
 ---
-
-
-
-
