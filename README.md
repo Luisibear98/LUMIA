@@ -1,7 +1,6 @@
 
 # LUMIA
 
-The full code will be released upon acceptance.  
 This guide provides instructions to set up the environment and install the necessary dependencies for the project.
 
 ---
@@ -10,8 +9,9 @@ This guide provides instructions to set up the environment and install the neces
 
 Before starting, ensure the following tools are installed on your system:
 
-- **Anaconda** or **Miniconda**
 - **Python 3.10.14**
+
+- **Anaconda** or **Miniconda** (optional)
 
 ---
 
@@ -28,7 +28,7 @@ cd lumia
 
 ---
 
-### 2. Create a New Environment
+### 2. Create a New Environment (Optional)
 
 Create and activate a new Conda environment for the project:
 
