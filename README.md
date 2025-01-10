@@ -54,6 +54,7 @@ pip install -r requirements.txt
 For convenience, you can use the provided automated setup script. Ensure it has executable permissions before running:
 
 ```bash
+cd scripts
 sudo chmod +x setup_environment.sh
 ./setup_environment.sh
 ```
@@ -66,12 +67,14 @@ sudo chmod +x setup_environment.sh
 
 #### For NGB:
 ```bash
+cd scripts
 sudo chmod +x run_unimodal_ngb_experiment.sh
 ./run_unimodal_ngb_experiment.sh
 ```
 
 #### For TB:
 ```bash
+cd scripts
 sudo chmod +x run_unimodal_tb_experiment.sh
 ./run_unimodal_tb_experiment.sh
 ```
@@ -81,6 +84,7 @@ sudo chmod +x run_unimodal_tb_experiment.sh
 Run the multimodal experiments script:
 
 ```bash
+cd scripts
 sudo chmod +x run_multimodal_experiment.sh
 ./run_multimodal_experiment.sh
 ```
